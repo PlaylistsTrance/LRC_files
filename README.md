@@ -1,4 +1,4 @@
-# LRC_files
+# LRC Files
 My collection of synced lyrics. Majority of LRC is made by me, check for `[by: RevolutionVoid]`.
 
 ## Types of files
